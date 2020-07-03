@@ -148,7 +148,7 @@
     });
 })(jQuery);
 
-// Part by Jesswin©
+// injecting HTMl from here😁
 //declaring variables...
 const scoreboard = document.querySelector('#scoreboard');
 // Fetching the json🧲
