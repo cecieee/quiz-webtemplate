@@ -1,0 +1,42 @@
+[
+    {
+        "position": "1st",
+        "name": "Govind Kartha",
+        "score": 88
+    },
+    {
+        "position": "1st",
+        "name": "Rithu Maria Jose",
+        "score": 88
+    },
+    {
+        "position": "1st",
+        "name": "Jesswin W Varghese",
+        "score": 88
+    },
+    {
+        "position": "1st",
+        "name": "Vishu G Sabu",
+        "score": 88
+    },
+    {
+        "position": "2nd",
+        "name": "Sankar Raj",
+        "score": 84
+    },
+    {
+        "position": "3rd",
+        "name": "Asher Thomas Babu",
+        "score": 80
+    },
+    {
+        "position": "3rd",
+        "name": "Alwin John",
+        "score": 80
+    },
+    {
+        "position": "",
+        "name": "John Doe",
+        "score": 80
+    }
+]
