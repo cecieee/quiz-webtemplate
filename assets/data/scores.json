@@ -1,202 +1,50 @@
 [
-    {
-        "position": "1st",
-        "name": "Sankar Raj",
-        "score": 293
-    },
-    {
-        "position": "2nd",
-        "name": "Rithu Maria Jose",
-        "score": 273
-    },
-    {
-        "position": "3rd",
-        "name": "Govind Kartha",
-        "score": 228
-    },
-    {
-        "position": "",
-        "name": "Alrin George Sabu",
-        "score": 193
-    },
-    {
-        "position": "",
-        "name": "Riya Elen John",
-        "score": 185
-    },
-    {
-        "position": "",
-        "name": "Sarath Kumar S",
-        "score": 163
-    },
-    {
-        "position": "",
-        "name": "Vishal Biji",
-        "score": 126
-    },
-    {
-        "position": "",
-        "name": "Alwin John",
-        "score": 115
-    },
-    {
-        "position": "",
-        "name": "Sreelakshmi S",
-        "score": 110
-    },
-    {
-        "position": "",
-        "name": "Aswathy Satheesh",
-        "score": 97
-    },
-    {
-        "position": "",
-        "name": "Jeswin W Varghese",
-        "score": 88
-    },
-    {
-        "position": "",
-        "name": "Vishu G Sabu",
-        "score": 88
-    },
-    {
-        "position": "",
-        "name": "Athul P",
-        "score": 81
-    },
-    {
-        "position": "",
-        "name": "Asher Thomas Babu",
-        "score": 80
-    },
-    {
-        "position": "",
-        "name": "Navami Raj",
-        "score": 76
-    },
-    {
-        "position": "",
-        "name": "Dennis Thomas",
-        "score": 68
-    },
-    {
-        "position": "",
-        "name": "P Sathya Narayan",
-        "score": 68
-    },
-    {
-        "position": "",
-        "name": "Vyshnavi Nair",
-        "score": 64
-    },
-    {
-        "position": "",
-        "name": "Joyal Jose",
-        "score": 60
-    },
-    {
-        "position": "",
-        "name": "Jeena Mary John",
-        "score": 57
-    },
-    {
-        "position": "",
-        "name": "Neethu R",
-        "score": 55
-    },
-    {
-        "position": "",
-        "name": "Angel Mary Alex",
-        "score": 52
-    },
-    {
-        "position": "",
-        "name": "Adithya Anil",
-        "score": 52
-    },
-    {
-        "position": "",
-        "name": "Jibin Joseph",
-        "score": 51
-    },
-    {
-        "position": "",
-        "name": "Nithya Venugopal",
-        "score": 51
-    },
-    {
-        "position": "",
-        "name": "Shana Mariyam K P",
-        "score": 48
-    },
-    {
-        "position": "",
-        "name": "Mohammed Shaheer V K",
-        "score": 44
-    },
-    {
-        "position": "",
-        "name": "Abhishek P B",
-        "score": 44
-    },
-    {
-        "position": "",
-        "name": "Priyadharshini T",
-        "score": 43
-    },
-    {
-        "position": "",
-        "name": "Aswin Thomas Bony",
-        "score": 40
-    },
-    {
-        "position": "",
-        "name": "Jeril M J",
-        "score": 40
-    },
-    {
-        "position": "",
-        "name": "Helen Sharon Shibu",
-        "score": 36
-    },
-    {
-        "position": "",
-        "name": "Anjalikrishna",
-        "score": 36
-    },
-    {
-        "position": "",
-        "name": "Isha Kizhakkooden",
-        "score": 35
-    },
-    {
-        "position": "",
-        "name": "Shyam Krishnan R",
-        "score": 32
-    },
-    {
-        "position": "",
-        "name": "Anjima K Vijayan",
-        "score": 28
-    },
-    {
-        "position": "",
-        "name": "Yadhukrishnan P S",
-        "score": 24
-    },
-    {
-        "position": "",
-        "name": "Jerin Joji",
-        "score": 24
-    },
-    {
-        "position": "",
-        "name": "Adharsh S",
-        "score": 20
-    },
-    {
-        "position": "",
-        "name": "Megha S Mohan",
-        "score": 8
-    }
+{"position":"1st","name":"Sankar Raj","score":"376"},
+{"position":"2nd","name":"Rithu Maria Jose","score":"297"},
+{"position":"3rd","name":"Govind Kartha","score":"280"},
+{"position":"","name":"Riya Elen John","score":"259"},
+{"position":"","name":"Alrin George Sabu","score":"254"},
+{"position":"","name":"Sreelakshmi S","score":"187"},
+{"position":"","name":"Vishal Biji","score":"181"},
+{"position":"","name":"Sarath Kumar S","score":"163"},
+{"position":"","name":"Alwin John","score":"160"},
+{"position":"","name":"Aswathy Satheesh","score":"135"},
+{"position":"","name":"Athul P","score":"131"},
+{"position":"","name":"Dennis Thomas","score":"121"},
+{"position":"","name":"Jeswin W Varghese","score":"88"},
+{"position":"","name":"Vishu G Sabu","score":"88"},
+{"position":"","name":"Vyshnavi Nair","score":"85"},
+{"position":"","name":"Asher Thomas Babu","score":"80"},
+{"position":"","name":"Priyadharshini T","score":"77"},
+{"position":"","name":"Navami Raj","score":"76"},
+{"position":"","name":"P Sathya Narayan","score":"68"},
+{"position":"","name":"Joyal Jose","score":"60"},
+{"position":"","name":"Anjima K Vijayan","score":"60"},
+{"position":"","name":"Jeena Mary John","score":"57"},
+{"position":"","name":"Athulya","score":"57"},
+{"position":"","name":"Neethu R","score":"55"},
+{"position":"","name":"Angel Mary Alex","score":"52"},
+{"position":"","name":"Adithya Anil","score":"52"},
+{"position":"","name":"Jibin Joseph","score":"51"},
+{"position":"","name":"Nithya Venugopal","score":"51"},
+{"position":"","name":"Shana Mariyam K P","score":"48"},
+{"position":"","name":"Mohammed Shaheer V K","score":"44"},
+{"position":"","name":"Abhishek P B","score":"44"},
+{"position":"","name":"Sruthy Ann Jose","score":"41"},
+{"position":"","name":"Aswin Thomas Bony","score":"40"},
+{"position":"","name":"Jeril M J","score":"40"},
+{"position":"","name":"Helen Sharon Shibu","score":"36"},
+{"position":"","name":"Anjalikrishna","score":"36"},
+{"position":"","name":"Isha Kizhakkooden","score":"35"},
+{"position":"","name":"Christy Thomas","score":"35"},
+{"position":"","name":"Shyam Krishnan R","score":"32"},
+{"position":"","name":"Ashitha Nair","score":"30"},
+{"position":"","name":"Parvathi R Nair","score":"30"},
+{"position":"","name":"Shah","score":"27"},
+{"position":"","name":"Yadhukrishnan P S","score":"24"},
+{"position":"","name":"Jerin Joji","score":"24"},
+{"position":"","name":"Vaishakh","score":"21"},
+{"position":"","name":"Adharsh S","score":"20"},
+{"position":"","name":"Megha S Mohan","score":"8"}
 ]
+
